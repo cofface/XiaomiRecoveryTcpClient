@@ -1,4 +1,8 @@
-﻿#include<iostream>
+﻿/*
+Author: cofface <cofface@gmail.com>
+*/
+
+#include<iostream>
 #include <Winsock2.h>
 #include <string>
 #pragma comment(lib,"WS2_32")
